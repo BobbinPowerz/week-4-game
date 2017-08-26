@@ -1,0 +1,26 @@
+#wrapper {
+margin: 10 auto;
+
+}
+
+body {
+	background-image: url("../images/bgpattern.png");
+	text-align: center;
+	color: black;
+}
+
+.jumbotron {
+	background: rgba(186, 201, 167, 0.4);	
+}
+
+img {
+
+	height: 80px;
+	width: 80px;
+	margin: 5px 0;
+}
+
+.crystals, .goals {
+	background: rgba(186, 201, 167, 0.5);
+	margin: 10px 0;
+}
